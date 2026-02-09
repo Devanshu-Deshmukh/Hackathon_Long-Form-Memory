@@ -28,4 +28,9 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that
 | :-------- | :--------------------- | :------------------------------- |
 | **LLM**   | **Groq (Llama-3-70b)** | High-speed inference & reasoning |
 
-|
+## Code Execution
+
+- **API Key add:** [text](https://console.groq.com/keys)
+- **Virtual Enviorment set up:** python -m venv venv
+- **Extra Code to be run in terminal:** pip install "langchain<0.3" "langchain-community<0.3" "langchain-core<0.3" "langchain-groq<0.2" sentence-transformers chromadb
+- **Execute frontend by:** python app.py
