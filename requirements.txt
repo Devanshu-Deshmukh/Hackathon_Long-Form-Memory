@@ -4,3 +4,6 @@ chromadb==0.4.24
 python-dotenv==1.0.1
 openai==1.23.2
 tiktoken==0.6.0
+Flask==3.0.0
+flask-cors==4.0.0
+Werkzeug==3.0.1
