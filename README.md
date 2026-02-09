@@ -32,5 +32,6 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that
 
 - **API Key add:** [text](https://console.groq.com/keys)
 - **Virtual Enviorment set up:** python -m venv venv
+- **Run First requirements file:** pip install -r requirements.txt
 - **Extra Code to be run in terminal:** pip install "langchain<0.3" "langchain-community<0.3" "langchain-core<0.3" "langchain-groq<0.2" sentence-transformers chromadb
 - **Execute frontend by:** python app.py
