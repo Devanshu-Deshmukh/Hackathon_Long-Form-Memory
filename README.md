@@ -30,6 +30,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that
 
 ## Code Execution
 
+- **Recommended python:** python 3.11 and 3.12
 - **API Key add:** [text](https://console.groq.com/keys)
 - **Virtual Enviorment set up:** python -m venv venv
 - **Run First requirements file:** pip install -r requirements.txt
